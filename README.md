@@ -2,6 +2,9 @@
 
 Welcome to the **Landing Page** repository, a clean and modern web design focused on delivering a smooth user experience. This project showcases a responsive and visually appealing landing page suitable for various industries and purposes.
 
+## GitHub Pages
+https://nelliyanchuk.github.io/Landing-Page/
+
 ## 👩‍💻 Our Team
 
 This project is built by a talented team committed to delivering a great user experience:
