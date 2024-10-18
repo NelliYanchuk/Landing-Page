@@ -35,3 +35,5 @@ Our team brings together diverse skills and ideas, working collaboratively to cr
     git clone https://github.com/NelliYanchuk/Landing-Page.git
     ```
 2. Open `index.html` in your browser to view.
+
+![Landing Page](https://i.ibb.co/nb892KW/landing-page.png)
